@@ -2,7 +2,7 @@
 
 #### 软件界面
 
-![1593848823716](C:\Users\Fly-kite6\AppData\Roaming\Typora\typora-user-images\1593848823716.png)
+![Image text](https://raw.githubusercontent.com/flykite6/Digital_Image_Process/master/images/%E7%95%8C%E9%9D%A2.png)
 
 备注：界面代码参考自https://github.com/JiageWang/opencv-pyqt5
 
