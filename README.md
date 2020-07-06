@@ -2,7 +2,7 @@
 
 #### 软件界面
 
-![Image text](https://raw.githubusercontent.com/flykite6/Digital_Image_Process/master/images/%E7%95%8C%E9%9D%A2.png)
+![interface Image](https://github.com/flykite6/Digital_Image_Process/raw/master/images/界面.png)
 
 备注：界面代码参考自https://github.com/JiageWang/opencv-pyqt5
 
